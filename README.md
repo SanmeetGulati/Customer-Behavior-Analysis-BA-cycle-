@@ -1,40 +1,37 @@
 
 
-Customer Behaviour Analysis
 
-Project Overview
+---
 
-This project analyzes customer behaviour using an end-to-end data analytics workflow. The objective is to clean, analyze, and visualize customer data to understand purchasing patterns and support data-driven business decisions.
+***Customer Behaviour Analysis***
 
+**Overview**
 
-
-
-Workflow
-
-1. Define problem statement and business objectives
+An end-to-end data analytics project focused on understanding customer behaviour using SQL, Python, and Power BI. This project demonstrates the complete workflow from problem definition to data analysis, visualization, and reporting.
 
 
-2. Extract data using SQL Server Management Studio (SSMS)
+---
 
+**📋Workflow**
 
-3. Clean and preprocess data using Python
+Defined business problem and objectives
 
+Extracted and queried data using SQL Server (SSMS)
 
-4. Perform exploratory data analysis (EDA)
+Cleaned and processed data using Python
 
+Performed exploratory data analysis (EDA)
 
-5. Create interactive dashboards using Power BI
+Built interactive dashboards in Power BI
 
-
-6. Document insights and prepare PowerPoint presentation
+Created project documentation and presentation (PPT)
 
 
 
+---
+**⚙️Tools Used**
 
-
-Tools & Technologies
-
-SQL Server (SSMS)
+SQL Server Management Studio (SSMS)
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -44,23 +41,26 @@ PowerPoint
 
 
 
+---
 
-Project Output
+**📈Project Output**
 
 Cleaned and structured dataset
 
-Data insights from analysis
+Customer behaviour insights
 
 Interactive Power BI dashboard
 
-Project documentation and presentation
+Documentation and presentation
 
 
 
+---
 
-Purpose
+**🎯Purpose**
 
-To demonstrate practical skills in SQL, Python, and Power BI for customer behaviour analysis.
+To demonstrate practical data analytics skills and an end-to-end project workflow suitable for data analyst and business analyst roles.
 
 
+---
 
